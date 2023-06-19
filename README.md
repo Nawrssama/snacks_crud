@@ -8,4 +8,4 @@
 
 > python manage.py runserver
 
-the PR : 
+the PR : https://github.com/Nawrssama/snacks_crud/pull/1
